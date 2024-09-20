@@ -1,0 +1,8 @@
+A lógica é que, enquanto K for menor que INDICE (12), o valor de K será incrementado em 1, e o valor de SOMA será incrementado pelo valor de K. Vamos acompanhar os valores:
+    Inicialmente, K = 1 e SOMA = 0.
+    A cada iteração, K aumenta em 1 e o valor de SOMA acumula o valor de K.
+
+Os valores de K vão de 2 até 12. Somando-os:
+    "SOMA = 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 = 78"
+
+Portanto, o valor de SOMA ao final será 78.

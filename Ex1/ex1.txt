@@ -1,0 +1,22 @@
+Explicação:
+
+    Método isFibonacci(int num): Este método verifica se o número informado pertence à sequência de Fibonacci. Ele gera a sequência de Fibonacci até atingir ou ultrapassar o número informado e compara se ele faz parte da sequência.
+
+    Função main: Solicita ao usuário um número e chama o método isFibonacci para verificar se o número informado pertence à sequência de Fibonacci.
+
+    O código usa a classe Scanner para receber a entrada do usuário.
+
+Exemplo de uso:
+
+    Se o usuário informar o número 21, o programa retornará que ele pertence à sequência de Fibonacci. Se o número for 22, retornará que não pertence.
+
+Ex:
+    Entrada:
+        "Informe um número para verificar se está na sequência de Fibonacci: 21"
+    Saida:
+        "O número 21 pertence à sequência de Fibonacci."
+
+    Entrada:
+        "Informe um número para verificar se está na sequência de Fibonacci: 22"
+    Saida:
+        "O número 22 NÃO pertence à sequência de Fibonacci."

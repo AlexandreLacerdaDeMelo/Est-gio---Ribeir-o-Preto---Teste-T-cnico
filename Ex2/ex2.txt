@@ -1,0 +1,16 @@
+Explicação:
+    Entrada de string: A string é solicitada ao usuário por meio da classe Scanner.
+
+    Verificação de letras: O programa converte a string em um array de caracteres com toCharArray() e percorre cada caractere verificando se é 'a' ou 'A'.
+
+    Contador: Para cada ocorrência da letra 'a' ou 'A', o contador é incrementado.
+
+    Exibição do resultado: Se a letra foi encontrada, o programa exibe o número de ocorrências; caso contrário, informa que não há a letra.
+
+Exemplo de uso:
+
+    Entrada:
+        "Digite uma string: Java é uma linguagem fantástica!"
+
+    Saida:
+        "A letra 'a' (maiúscula ou minúscula) aparece 6 vez(es)."

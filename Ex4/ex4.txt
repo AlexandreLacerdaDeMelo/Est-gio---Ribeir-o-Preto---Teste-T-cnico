@@ -1,0 +1,11 @@
+a) Padrão: números ímpares. O próximo número é 9.
+
+b) Padrão: dobro do anterior. O próximo número é 128.
+
+c) Padrão: (0², 1², 2², 3², ...). O próximo número é 49 (7²).
+
+d) Padrão: (2², 4², 6², 8², ...). O próximo número é 100 (10²).
+
+e) Padrão: Fibonacci. O próximo número é 13.
+
+f) Padrão: sequência alternando entre adicionar 8 e adicionar 1. O próximo número é 20.
